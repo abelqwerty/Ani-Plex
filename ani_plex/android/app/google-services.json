@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940873813584",
+    "firebase_url": "https://ani-plex.firebaseio.com",
+    "project_id": "ani-plex",
+    "storage_bucket": "ani-plex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940873813584:android:55e7757ffdd4c319dc0b55",
+        "android_client_info": {
+          "package_name": "com.atek.aniplex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940873813584-9brm8mngdjv35kgetnkrh9ss027g4e66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atek.aniplex",
+            "certificate_hash": "f67d0c243736c3e570fe9952c9a15b488819ab0a"
+          }
+        },
+        {
+          "client_id": "940873813584-q3lesbepcvm9drog772arto9kkr0lahl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQcDsj5GzzUsyShzm10uW2iUeG5mfVPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940873813584-q3lesbepcvm9drog772arto9kkr0lahl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
